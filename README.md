@@ -3,7 +3,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tranduy.le.986) 
 
 <h1 align="center">Hi 👋, I'm Le Tran Duy</h1>
-<h3 align="center">AI Engineer | Backend Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">AI Engineer | Backend Developer | Machine Learning | Deep Learning </h3>
 
 ---
 
